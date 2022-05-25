@@ -1,0 +1,13 @@
+{
+
+  "users": [
+      {
+          "name": "Tom",
+          "address": "123 Main St",
+          "email": "tom@gmail.com",
+          "contact": "123-456-7890",
+          "id": 1
+      }
+  ]
+
+}
