@@ -1,13 +1,32 @@
 {
-
   "users": [
-      {
-          "name": "Tom",
-          "address": "123 Main St",
-          "email": "tom@gmail.com",
-          "contact": "123-456-7890",
-          "id": 1
-      }
+    {
+      "name": "Tom",
+      "address": "123 Main St",
+      "email": "tom@gmail.com",
+      "contact": "123-456-7890",
+      "id": 1
+    },
+    {
+      "name": "André Lobo",
+      "email": "loboandre@hotmail.com",
+      "contact": "746586235492836549",
+      "address": "Brasil Manaus",
+      "id": 2
+    },
+    {
+      "name": "Teste ",
+      "email": "teste@gmail.com",
+      "contact": "9823459834192",
+      "address": "Glória",
+      "id": 3
+    },
+    {
+      "name": "Vrau",
+      "email": "vrau@hotmail.com",
+      "contact": "095387259842073",
+      "address": "Brasilia",
+      "id": 4
+    }
   ]
-
 }
